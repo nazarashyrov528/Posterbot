@@ -81,7 +81,7 @@ STR = {
     'text_updated': "✅ 𝐓𝐞𝐤𝐬 𝐭𝐚̂𝐳𝐞𝐥𝐞𝐧𝐝𝛊.",
     'post_not_found': "❌ 𝐏𝐨𝐬𝐭 𝐭𝐚𝐩𝐲𝐥𝐦𝐚𝐝𝐲.",
     'ram_psutil_missing': "⚠️ `psutil` gurnalmady. Serwera pip install psutil ediň.",
-    'menu_new_post': "𝐓𝐚̂𝐙𝐞 𝐏𝐨𝐬𝐭",
+    'menu_new_post': "𝐓𝐚̂𝐳𝐞 𝐏𝐨𝐬𝐭",
     'menu_stats': "𝐒𝐭𝐚𝐭𝛊𝐬𝐭𝛊𝐤𝐚",
     'menu_posts': "𝐏𝐨𝐬𝐭𝐥𝐚𝐫𝛊𝐦",
     'menu_fill_account': "𝐇𝐚𝐬𝐚𝐛𝐲 𝐃𝐨𝐥𝐝𝐲𝐫",
