@@ -19,11 +19,11 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update, BotComm
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, MessageHandler, ContextTypes, filters
 
 # Configuration: use environment variables for secrets
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = "8479890419:AAECDA7Idv5iEv89H-w4WdceA3CcoVvlU2o"
 if not BOT_TOKEN:
     raise RuntimeError("BOT_TOKEN environment variable not set")
 
-OWNER_ID = int(os.getenv("OWNER_ID", "6185683417"))
+OWNER_ID = 6185683417
 ADMINS = {OWNER_ID}
 DB_FILE = os.getenv("DATA_DB", "data.db")
 
